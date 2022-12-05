@@ -15,7 +15,7 @@ The data comprising of 11 columns and arounf 11000 observtions in it.
 
 **Departure time:** Time of take off.
 
-**Arrival Time: **The time when a person landed at their destination.
+**Arrival Time: ** The time when a person landed at their destination.
 
 **Duration:** Total time for airline to cover the destination according to their route.
 
